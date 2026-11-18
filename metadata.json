@@ -1,0 +1,6 @@
+{
+  "name": "Business USA — Marketing Consultancy",
+  "description": "Explore Business USA for marketing consultancy and business growth strategies. Contact our team to discuss your marketing goals.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
